@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently pursing master degree at Northwestern Polytechnical University. Before this, I received my bachelor degree at Northwestern Polytechnical University in 2019.
+- 🔭 My research focus on knowledge graph learning and neural architecture search.
+
+| <a href="https://github.com/striderdu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=striderdu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Striderdu's github stats" /></a> | <a href="https://github.com/striderdu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=striderdu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
